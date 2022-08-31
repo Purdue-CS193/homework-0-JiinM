@@ -1,4 +1,4 @@
-#<Jiin>'s First CS193 Homework
+# Jiin's First CS193 Homework
 
   - No exam
   - Helps to get used to coding
